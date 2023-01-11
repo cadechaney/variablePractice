@@ -7,3 +7,8 @@ var zipCode = "62304"
 var age = 20
 var startingAge = 22
 var weight = 175
+
+//boolean variables
+var depositPaid = true
+var working = true
+var studying = true
